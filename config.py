@@ -4,16 +4,16 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "10170481"))
+API_ID = int(os.environ.get("API_ID", "30978477"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","22dd74455eb31c9aca628c3008580142")
+API_HASH = os.environ.get("API_HASH","4d908be0390fb1f4fd079506af5b1971")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7802584581:AAE6ok2hgmo0ltFpIioc7ZDyPZdTVB_Alcc")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@TGXTHAKUR_BOT)
 BOT_TEXT = "TG✗ ᎢᎻᎪᏦᏌᎡ 모"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "8437278733"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5575032909"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003809743918"))
